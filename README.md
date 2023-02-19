@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shark858
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... instagram : prajwal_bagewadi
+- 👋 Hi, I’m @prajwal bagewadi
+- 👀 I’m interested in ... coding life
+- 🌱 I’m currently learning ... software development and full stack
+- 💞️ I’m looking to collaborate on ... on software development learning process and development  
+- 📫 How to reach me ... Linkedin : https://www.linkedin.com/in/prajwal-bagewadi-046128202/
 _$💽🎧🎛🎚huge fan of Reaper daw 
 
 <!---
